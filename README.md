@@ -59,9 +59,8 @@ Identify trending topics in environmental discussions
 Support policy-making, research, and awareness campaigns
 
 Future Improvements
+
 Add deep learning-based sentiment analysis (BERT, RoBERTa)
 Build a web dashboard using Streamlit / Flask
 Extend dataset with real-time tweets/news scraping
 
-
-**
